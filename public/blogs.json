@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/BnNyNsp/flat-lay-desktop-with-notebook-pizza.jpg",
+        "title": "Understanding JavaScript",
+        "authors": ["Alice Green"],
+        "author_img": "https://i.ibb.co.com/RS1w711/0-Ulpwtat-PGi-J7-Si-QN.png",
+        "posted_date": "2023-09-15",
+        "reading_time": 3,
+        "hashtags": ["#javascript", "#webdevelopment", "#coding"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/hB2zQQk/high-angle-desktop-with-laptop-copy-space.jpg",
+        "title": "Python for Beginners",
+        "authors": ["Bob White"],
+        "author_img": "https://i.ibb.co.com/RS1w711/0-Ulpwtat-PGi-J7-Si-QN.png",
+        "posted_date": "2023-10-01",
+        "reading_time": 4,
+        "hashtags": ["#python", "#programming", "#learntocode"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/BnNyNsp/flat-lay-desktop-with-notebook-pizza.jpg",
+        "title": "Mastering React",
+        "authors": ["Charlie Black"],
+        "author_img": "https://i.ibb.co.com/7XLMzbG/Abrams-Stacey-2024-600.jpg",
+        "posted_date": "2023-08-22",
+        "reading_time": 5,
+        "hashtags": ["#reactjs", "#frontend", "#javascript"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/hB2zQQk/high-angle-desktop-with-laptop-copy-space.jpg",
+        "title": "The Art of SQL",
+        "authors": ["Dana Blue"],
+        "author_img": "https://i.ibb.co.com/3fcTVCx/0-Esklxlx9-hdrl-Mq-O.png",
+        "posted_date": "2023-09-30",
+        "reading_time": 4.5,
+        "hashtags": ["#sql", "#database", "#datascience"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/BnNyNsp/flat-lay-desktop-with-notebook-pizza.jpg",
+        "title": "Building APIs with Node.js",
+        "authors": ["Evan Red"],
+        "author_img": "https://i.ibb.co.com/SBXvXQ9/authorphotos5-1024x683.jpg",
+        "posted_date": "2023-10-10",
+        "reading_time": 6,
+        "hashtags": ["#nodejs", "#api", "#backenddevelopment"]
+    }
+]
