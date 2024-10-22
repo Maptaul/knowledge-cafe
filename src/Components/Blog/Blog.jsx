@@ -14,7 +14,7 @@ const Blog = ({ blog, handleAddToBookMark, handleMarkAsRead }) => {
   return (
     <div className="mb-16 space-y-4">
       <img
-        className=" w-full rounded-md mb-4"
+        className=" w-full  h-96 rounded-md mb-4"
         src={cover}
         alt={`cover picture of the tittle ${title}`}
       />
@@ -50,7 +50,7 @@ const Blog = ({ blog, handleAddToBookMark, handleMarkAsRead }) => {
       </p>
       <button
         onClick={() => handleMarkAsRead(reading_time)}
-        className="text-purple-600 font-bold underline"
+        className="text-purple-400 font-bold underline"
       >
         Mark As Read
       </button>

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "cover": "https://i.ibb.co.com/BnNyNsp/flat-lay-desktop-with-notebook-pizza.jpg",
-        "title": "Understanding JavaScript",
+        "title": "Mastering JavaScript: building dynamic, interactive web experiences with code.",
         "authors": ["Alice Green"],
         "author_img": "https://i.ibb.co.com/RS1w711/0-Ulpwtat-PGi-J7-Si-QN.png",
         "posted_date": "2023-09-15",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "cover": "https://i.ibb.co.com/hB2zQQk/high-angle-desktop-with-laptop-copy-space.jpg",
-        "title": "Python for Beginners",
+        "title": "Learning Python basics: dive into programming with ease and fun.",
         "authors": ["Bob White"],
         "author_img": "https://i.ibb.co.com/RS1w711/0-Ulpwtat-PGi-J7-Si-QN.png",
         "posted_date": "2023-10-01",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "cover": "https://i.ibb.co.com/BnNyNsp/flat-lay-desktop-with-notebook-pizza.jpg",
-        "title": "Mastering React",
+        "title": "You Mastering React make it 15 words Copilot Become a React expert by diving deep into components, hooks, and building seamless user interfaces effectively.",
         "authors": ["Charlie Black"],
         "author_img": "https://i.ibb.co.com/7XLMzbG/Abrams-Stacey-2024-600.jpg",
         "posted_date": "2023-08-22",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "cover": "https://i.ibb.co.com/hB2zQQk/high-angle-desktop-with-laptop-copy-space.jpg",
-        "title": "The Art of SQL",
+        "title": "Master the craft of SQL: query, analyze, and transform data efficiently.Master the craft of SQL: query, analyze, and transform data efficiently.",
         "authors": ["Dana Blue"],
         "author_img": "https://i.ibb.co.com/3fcTVCx/0-Esklxlx9-hdrl-Mq-O.png",
         "posted_date": "2023-09-30",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "cover": "https://i.ibb.co.com/BnNyNsp/flat-lay-desktop-with-notebook-pizza.jpg",
-        "title": "Building APIs with Node.js",
+        "title": "Creating efficient APIs swiftly using Node.js powerful runtime.",
         "authors": ["Evan Red"],
         "author_img": "https://i.ibb.co.com/SBXvXQ9/authorphotos5-1024x683.jpg",
         "posted_date": "2023-10-10",
